@@ -1,3 +1,4 @@
+![markus-spiske-8OyKWQgBsKQ-unsplash](https://user-images.githubusercontent.com/78280109/127743794-385b0232-a7de-4af5-97fd-52956fbad21a.jpg)
 ### Hi there, I'm Sofía 👋
 
 <!--
