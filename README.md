@@ -1,7 +1,10 @@
 ### Hi there, I'm Sofía 👋
 
 I've worked with:
-  ![image](https://user-images.githubusercontent.com/78280109/127748451-9ed84cdf-d004-4a16-86ac-3d13514536ed.png)
+  
+![image](https://user-images.githubusercontent.com/78280109/127748533-4a384b4c-8e28-4c50-9fb8-50afb58891ab.png)
+
+  
 <!--
 **sofiapel/sofiapel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
