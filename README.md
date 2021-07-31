@@ -1,4 +1,4 @@
-Perfil en construcción :)
+Perfil temporalmente en construcción 
 
 ### Hi there, I'm Sofía 👋
 
