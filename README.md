@@ -1,5 +1,5 @@
 ### Hi there, I'm Sofía 👋
-![markus-spiske-8OyKWQgBsKQ-unsplash](https://user-images.githubusercontent.com/78280109/127743794-385b0232-a7de-4af5-97fd-52956fbad21a.jpg)
+
 <!--
 **sofiapel/sofiapel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
