@@ -18,6 +18,12 @@
 </p>
 
 <h3 align="left">Check out my work:</h3>
+ ![CountryDetail](https://user-images.githubusercontent.com/78280109/127782135-83f58f9e-3e88-4bc0-9fb1-e68cd912e56c.jpeg?raw=true)
+ ![CreateActivity](https://user-images.githubusercontent.com/78280109/127782169-075b1a44-a92a-46b1-b9b4-f3bfa8486d8f.jpeg?raw=true)
+ ![Home](https://user-images.githubusercontent.com/78280109/127782202-a8e40e60-dbd5-484e-bfbc-e74e07ca4356.jpeg?raw=true)
+ ![LandingPage](https://user-images.githubusercontent.com/78280109/127782213-a44dee2e-923d-46a5-9dc8-78850da9352e.jpeg)
+
+
 
 
 
