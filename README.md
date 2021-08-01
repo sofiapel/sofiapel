@@ -17,6 +17,8 @@
   </a> <a href="https://sequelize.org/" target="_blank"> SEQUELIZE <img src="https://user-images.githubusercontent.com/78280109/127777812-c8633f63-ec5b-4fb4-aaf5-9b8e3f051ee7.png" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Check out my work:</h3>
+
 
   
 
