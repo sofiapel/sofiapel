@@ -14,6 +14,7 @@
   </a> <a href="https://www.python.org" target="_blank">PYTHON <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> <a href="https://reactjs.org/" target="_blank">REACTJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> <a href="https://redux.js.org" target="_blank">REDUX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+  </a> <a href="https://sequelize.org/" target="_blank"> SEQUELIZE <img src="https://user-images.githubusercontent.com/78280109/127777812-c8633f63-ec5b-4fb4-aaf5-9b8e3f051ee7.png" width="40" height="40"/> </a>
 </p>
 
 
