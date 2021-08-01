@@ -26,7 +26,7 @@
     <li>Create and attach an activity to one or many countries</li>
     <li>See the details of the country and his tourism activities</li>
    </ul>
-</p>
+   [a link](https://github.com/sofiapel/PI-Countries-FT14a)
 	
  <img src="https://user-images.githubusercontent.com/78280109/127782202-a8e40e60-dbd5-484e-bfbc-e74e07ca4356.jpeg?raw=true"/>
  <img src="https://user-images.githubusercontent.com/78280109/127782169-075b1a44-a92a-46b1-b9b4-f3bfa8486d8f.jpeg?raw=true"/>
