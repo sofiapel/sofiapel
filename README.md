@@ -1,19 +1,9 @@
-
-### Hi there, I'm Sofía 👋
-
-### I've worked with:
-  ![image](https://user-images.githubusercontent.com/78280109/127748556-1d0440ec-6c2d-4777-a0e4-7d3321fd1ec9.png)
-  ![image](https://user-images.githubusercontent.com/78280109/127748561-f1c06dde-4083-4faf-a098-3dc010f9325d.png)
-  ![image](https://user-images.githubusercontent.com/78280109/127748579-d212d0fc-71ef-4579-afc1-b158abe938f4.png)
-  ![image](https://user-images.githubusercontent.com/78280109/127748589-211bbfa2-723a-4870-ac0a-0e969034bbc9.png)
-  ![image](https://user-images.githubusercontent.com/78280109/127748600-753897c1-0f62-47ae-bf33-8ddf12bd0162.png)
-  ![image](https://user-images.githubusercontent.com/78280109/127748608-893ccb4c-65be-45b4-84fd-c5869ada7795.png)
-  ![image](https://user-images.githubusercontent.com/78280109/127748616-a90d144f-d896-488e-be27-6068b721d815.png)
-
-  
-### Check out my proyects:  
+<h1 align="center">Hi 👋, I'm Sofía</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
   
   
 
