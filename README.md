@@ -34,8 +34,8 @@
  <!--<img src="https://user-images.githubusercontent.com/78280109/127782135-83f58f9e-3e88-4bc0-9fb1-e68cd912e56c.jpeg?raw=true"/>
  <img src="https://user-images.githubusercontent.com/78280109/127782213-a44dee2e-923d-46a5-9dc8-78850da9352e.jpeg?raw=true"/>-->
  
- <h5 align="center"><a href="https://countryappsopa-etu6kov1o-sofiapel.vercel.app/countries" target="_blank">SEE IT HERE</a><h5>
- <h3 align="center"><a href="https://github.com/sofiapel/PI-Countries-FT14a" target="_blank">repository</a></h3>
+ <h3 align="center"><a href="https://countryappsopa-etu6kov1o-sofiapel.vercel.app/countries" target="_blank">SEE IT HERE</a><h3>
+ <h5 align="center"><a href="https://github.com/sofiapel/PI-Countries-FT14a" target="_blank">repository</a></h5>
 
 
 
