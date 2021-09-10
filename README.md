@@ -31,7 +31,7 @@ Data stored in a relational database using PostgreSQL.</p>
     <li>Create and attach an activity to one or many countries</li>
     <li>See the details of the country and his tourism activities</li>
    </ul>-->
-   <h3 align="center"><a href="https://countryappsopa-etu6kov1o-sofiapel.vercel.app" target="_blank">SEE IT HERE</a><h3>
+   <h3 align="center"><a href="https://countries-sofiapel.vercel.app/countries" target="_blank">SEE IT HERE</a><h3>
 
 	
  <img src="https://user-images.githubusercontent.com/78280109/127782202-a8e40e60-dbd5-484e-bfbc-e74e07ca4356.jpeg?raw=true"/>
