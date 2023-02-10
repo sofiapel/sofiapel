@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofía</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
+<!--<h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +16,7 @@
   </a> <a href="https://redux.js.org" target="_blank">REDUX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   </a> <a href="https://sequelize.org/" target="_blank"> SEQUELIZE <img src="https://user-images.githubusercontent.com/78280109/127777812-c8633f63-ec5b-4fb4-aaf5-9b8e3f051ee7.png" width="40" height="40"/> </a>
   </a> <a href="https://www.linux.org/" target="_blank">LINUX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+</p>-->
 
 <!-- <h3 align="left">Check out my work:</h3>
 <p align="left">Develop a SPA using ReactJS for Front-End, Redux for state management and styles
