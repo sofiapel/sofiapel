@@ -1,4 +1,4 @@
-<!--
+
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
 
@@ -49,7 +49,6 @@ Data stored in a relational database using PostgreSQL.</p>
 
   
 
--->
   
 <!--
 **sofiapel/sofiapel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
