@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
+<!-- <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,7 +46,7 @@ Data stored in a relational database using PostgreSQL.</p>
 
 
 
-
+-->
   
 
   
