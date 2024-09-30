@@ -1,5 +1,5 @@
 
-<!-- <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,6 +18,8 @@
   </a> <a href="https://www.linux.org/" target="_blank">LINUX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+  
+<!--
 <h3 align="left">Check out my work:</h3>
 <p align="left">Develop a SPA using ReactJS for Front-End, Redux for state management and styles
 with pure CSS.
